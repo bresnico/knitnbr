@@ -1,0 +1,10 @@
+Package: knitnbr
+Type: Package
+Title: Custom Knit Button (File Name and Directory)
+Version: 0.1.0
+Author: Nicolas Bressoud
+Maintainer: Nicolas Bressoud <info@nicolasbressoud.ch>
+Description: This package is based directly on Yihui's advice (https://bookdown.org/yihui/rmarkdown-cookbook/custom-knit.html). It allows the author to simply adapt the "knit" button. The adaptation concerns the name of the output file as well as the output directory.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
